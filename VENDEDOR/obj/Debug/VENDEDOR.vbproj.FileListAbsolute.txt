@@ -1,0 +1,10 @@
+C:\Users\ANA\OneDrive\Documentos\Visual Studio 2012\VENDEDOR\VENDEDOR\bin\Debug\VENDEDOR.exe.config
+C:\Users\ANA\OneDrive\Documentos\Visual Studio 2012\VENDEDOR\VENDEDOR\bin\Debug\VENDEDOR.exe
+C:\Users\ANA\OneDrive\Documentos\Visual Studio 2012\VENDEDOR\VENDEDOR\bin\Debug\VENDEDOR.pdb
+C:\Users\ANA\OneDrive\Documentos\Visual Studio 2012\VENDEDOR\VENDEDOR\bin\Debug\VENDEDOR.xml
+C:\Users\ANA\OneDrive\Documentos\Visual Studio 2012\VENDEDOR\VENDEDOR\obj\Debug\VENDEDOR.Vendedor.resources
+C:\Users\ANA\OneDrive\Documentos\Visual Studio 2012\VENDEDOR\VENDEDOR\obj\Debug\VENDEDOR.Resources.resources
+C:\Users\ANA\OneDrive\Documentos\Visual Studio 2012\VENDEDOR\VENDEDOR\obj\Debug\VENDEDOR.vbproj.GenerateResource.Cache
+C:\Users\ANA\OneDrive\Documentos\Visual Studio 2012\VENDEDOR\VENDEDOR\obj\Debug\VENDEDOR.exe
+C:\Users\ANA\OneDrive\Documentos\Visual Studio 2012\VENDEDOR\VENDEDOR\obj\Debug\VENDEDOR.xml
+C:\Users\ANA\OneDrive\Documentos\Visual Studio 2012\VENDEDOR\VENDEDOR\obj\Debug\VENDEDOR.pdb
